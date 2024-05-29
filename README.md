@@ -1,2 +1,2 @@
-# Module1_Challenge
+# excel-challenge
 Excel of Crowdfunding and Data Analysis
